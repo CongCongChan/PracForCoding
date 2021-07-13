@@ -5,7 +5,7 @@
 int main(void)
 {
   printf("This is the file for testing.\n");
+
   printf("Type in Local PC.\n");
-  /* this sentense is typed by using vs studio.*/
   return 0;
 }
