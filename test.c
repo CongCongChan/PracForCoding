@@ -5,6 +5,8 @@
 int main(void)
 {
   printf("This is the file for testing.\n");
-/* Add some word to test the change. */
+
+  printf("Type in Local PC.\n");
+
   return 0;
 }
