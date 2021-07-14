@@ -8,5 +8,6 @@ int main(void)
 
   printf("Type in Local PC.\n");
   /* this sentense is typed by vsStudio2019 */
+  /* VS code */
   return 0;
 }
